@@ -18,3 +18,20 @@ Footer {
   text-align: center;
   background-color: antiquewhite;
 }
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+
+
+.list-beast {
+  margin: 50px ;
+  margin-left: 100px ;
+  padding: 5px;
+  display:inline-block;
+}

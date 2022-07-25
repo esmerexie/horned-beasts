@@ -10,6 +10,7 @@ class Main extends Component{
         super();
         this.state = {
             beastList: beastJSON,
+            favorite: 0
         }
     }
 
