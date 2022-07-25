@@ -32,7 +32,7 @@ class HornedBeast extends Component {
 
                                         Likes: {this.state.favorite}
                                     </Card.Text>
-                                    <Button variant="primary" onClick = {this.handleClick}>Like</Button>
+                                    <Button variant="primary" onClick = {this.handleClick}>&#x2665;</Button>
                                 </Card.Body>
                                 </Card>
                             </div>
